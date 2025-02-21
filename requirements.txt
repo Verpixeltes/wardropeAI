@@ -1,5 +1,6 @@
 fastapi==0.115.8
-numpy==1.23.5  # Kompatible Version für TensorFlow 2.12.0
+numpy==2.2.3
 Pillow==11.1.0
-tensorflow==2.12.0
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
 uvicorn==0.22.0
