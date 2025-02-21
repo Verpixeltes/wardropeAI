@@ -5,5 +5,7 @@
     <mapping directory="$PROJECT_DIR$/fashion-identifier" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ident" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/identifier" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jetztaber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wardropeAI" vcs="Git" />
   </component>
 </project>
