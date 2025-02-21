@@ -1,7 +1,6 @@
 absl-py==2.1.0
 accelerate==1.1.1
 aiofiles==24.1.0
-aiohappyeyeballs==<version>
 aiohttp==<version>
 aiohttp_socks==0.10.1
 aiosignal==<version>
